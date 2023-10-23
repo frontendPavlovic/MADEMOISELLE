@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "fonts.css",
+	"sources": [
+		"../../scss/theme-parsals/fonts.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
